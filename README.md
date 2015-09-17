@@ -14,3 +14,4 @@ directory for some examples. Documents can be compiled into dvi, ps or pdf.
 Author: Xavier Danaux <xdanaux@gmail.com><br/>
 Licence: The LaTeX Project Public Li­cense, version 1.3c<br/>
 URL: https://github.com/xdanaux/moderncv
+# CV
