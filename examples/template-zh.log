@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.11)  17 SEP 2015 14:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.7.11)  25 NOV 2015 13:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1398,11 +1398,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 29897 strings out of 493089
- 542453 string characters out of 6134848
- 636360 words of memory out of 5000000
- 32558 multiletter control sequences out of 15000+600000
- 114883 words of font info for 225 fonts, out of 8000000 for 9000
+ 29733 strings out of 493089
+ 539823 string characters out of 6134848
+ 633446 words of memory out of 5000000
+ 32413 multiletter control sequences out of 15000+600000
+ 112525 words of font info for 217 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,60p,10363b,1418s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
@@ -1471,16 +1471,17 @@ ve/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb></usr/local/texlive/201
 5/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9e.pfb></usr/local/texlive/2015/texm
 f-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
-e1/public/lm/lmss9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/l
-m/lmsso10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso12
-.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso9.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2015/
-texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on template-zh.pdf (1 page, 492462 bytes).
+e1/public/lm/lmss17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+lm/lmss9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso10.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/lm/lmsso9.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on template-zh.pdf (1 page, 480513 bytes).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
- 280 compressed objects within 3 object streams
+ 435 PDF objects out of 1000 (max. 8388607)
+ 283 compressed objects within 3 object streams
  10 named destinations out of 1000 (max. 500000)
  23906 words of extra memory for PDF output out of 24883 (max. 10000000)
 
